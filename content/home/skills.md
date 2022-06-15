@@ -25,7 +25,7 @@ feature:
     icon_pack: fab
     name: Music Addicted
   - description: Chasing future
-    icon: microchipa-i
+    icon: microchip-ai
     icon_pack: fab
     name: Deep Learning
 # Uncomment to use emoji icons.
