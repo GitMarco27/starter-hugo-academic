@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Project Engineer
+    company: Numerical
+    company_url: 'https://numerical.it/home/'
+    company_logo: nsi
+    location: Genoa
+    date_start: '2020-05-01'
+    date_end: '2021-04-01'
+    description: |2-
+        Project engineer in a cutting-edge company for fluid dynamics, structural simulation and turbomachinery design.
+        
+        * Turbomachinery design and optimization
+        * Cumputation Fluid Dynamic with Numeca (Cadence) and OpenFoam
+        * Structural Analysis with GMSH and Calculix
+        * Python Software development
+        * Research and Development (publications)
+
   - title: Master's thesis
     company: ABB
     company_url: 'https://global.abb/group/en'
