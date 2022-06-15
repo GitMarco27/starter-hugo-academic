@@ -22,6 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Deep Learning and Software Engineer
+    company: Deeplabs
+    company_url: 'https://www.linkedin.com/company/deepyt-ai/
+    company_logo: deepyt
+    location: Chiavari
+    date_start: '2021-04-01'
+    date_end: ''
+    description: |2-
+        Software and algorithms development for the creation of a versatile artificial intelligence platform for data science and engineering. 
+        
+        * Python software Development
+        * Qt and PyQt framework
+        * Implementation of artificial intelligence algorithms with Tensorflow, Pytorch and Sklearn
+        * Development of new networks for processing data from numerical simulation
+        * Python Software development
+        * Research and Development
+        * Content Creator (Photoshop, Adobe Premiere)
+
   - title: Project Engineer
     company: Numerical
     company_url: 'https://numerical.it/home/'
