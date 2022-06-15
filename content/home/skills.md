@@ -25,8 +25,8 @@ feature:
     icon_pack: fab
     name: Music Addicted
   - description: Chasing future
-    icon: chart-line
-    icon_pack: fab
+    icon: code
+    icon_pack: fas
     name: Deep Learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
