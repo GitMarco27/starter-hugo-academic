@@ -22,9 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Content Creator
+    company: YouTube
+    company_url: 'https://www.youtube.com/channel/UCExkeDZ9WC0tg9aoFMsNF0w'
+    company_logo: yt
+    location: Chiavari
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        Making videos about artificial intelligence, coding and technology
+        
+        * Tensorflow, PyTorch, Python and OpenFoam tutorials
+        * Photoshop and Adobe Premiere
+        * MacOS tips and tricks
+
+  - title: Content Creator
+    company: Medium
+    company_url: 'https://medium.com/@marcosanguineti'
+    company_logo: medium
+    location: Chiavari
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        Writing articles about of artificial intelligence, coding and technology
+        
+        * Writing and revising articles
+        * Bibliographic research
+        * Code development for tutorials
+        * Publication in Towards Data Science
+
   - title: Deep Learning and Software Engineer
     company: Deeplabs
-    company_url: 'https://www.linkedin.com/company/deepyt-ai/
+    company_url: 'https://www.linkedin.com/company/deepyt-ai/'
     company_logo: deepyt
     location: Chiavari
     date_start: '2021-04-01'
