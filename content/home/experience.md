@@ -22,19 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: ruths
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Master's thesis
+    company: ABB
+    company_url: 'https://global.abb/group/en'
+    company_logo: abb
+    location: Genoa
+    date_start: '2019-11-01'
+    date_end: '2020-12-01'
     description: |2-
-        Responsibilities include:
+        Numerical modeling of HVAC for maritime application: traditional approach and machine learning algorithms
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Support Vector Machines
+        * Neural Networks
+        * Energy system modelling and Simulation
+
+  - title: Internship
+    company: Ruths S.p.a.
+    company_url: 'http://www.ruths.it/'
+    company_logo: ruths
+    location: Genoa
+    date_start: '2018-09-01'
+    date_end: '2019-03-01'
+    description: |2-
+        Design engineer for innovative steam generator cleaning systems.
+        
+        * Product certification
+        * VBA programming 
+        * Design and optimization
 
   - title: Private teacher
     company: Self employed
