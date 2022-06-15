@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: ruths
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Private teacher
+    company: Self employed
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    company_logo: school-solid
+    location: Genoa
+    date_start: '2015-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Private teacher of mathematics and engineering subjects
 
 design:
   columns: '2'
