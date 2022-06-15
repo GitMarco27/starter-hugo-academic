@@ -22,11 +22,11 @@ feature:
     name: Python
   - description: Listening is everything
     icon: spotify
-    icon_pack: fas
+    icon_pack: fab
     name: Music Addicted
   - description: Chasing future
     icon: microchipa-i
-    icon_pack: fas
+    icon_pack: fab
     name: Deep Learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
