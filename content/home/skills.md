@@ -25,7 +25,7 @@ feature:
     icon_pack: fab
     name: Music Addicted
   - description: Chasing future
-    icon: robot
+    icon: code-branch
     icon_pack: fab
     name: Deep Learning
 # Uncomment to use emoji icons.
