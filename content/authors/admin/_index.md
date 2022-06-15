@@ -6,21 +6,22 @@ title: Marco Sanguineti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Deep Learning, Software and Mechanical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: DeepLabs
+    url: https://www.linkedin.com/company/deepyt-ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Passionate about technology, artificial intelligence and engineering, chronic introvert and obsessive compulsive
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Engineering
+  - Programming
+  - Technology and Games
 
 # Education to show in About widget
 education:
@@ -48,7 +49,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=hZHz6y4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
