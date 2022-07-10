@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Presented approach's pipeline diagram'
+  caption: 'Presented approach diagram'
   focal_point: ''
   preview_only: false
 
