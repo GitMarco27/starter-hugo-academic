@@ -23,30 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/USBXNSPQL3LR
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-01-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    title: Machine Learning
+    url: https://www.coursera.org/learn/machine-learning-course
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/F54MDCRFHWQX
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2021-01-02'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning Specialization
+    url: https://www.coursera.org/specializations/deep-learning
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/Q6J65DWWN6KX
+    date_end: ''
+    date_start: '2021-01-06'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: DeepLearning.AI TensorFlow Developer Specialization
+    url: https://www.coursera.org/specializations/tensorflow-in-practice
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/84B27448YPTX
+    date_end: ''
+    date_start: '2021-01-10'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: TensorFlow: Advanced Techniques Specialization
+    url: https://www.coursera.org/specializations/tensorflow-advanced-techniques
 
 design:
   columns: '2'
