@@ -53,7 +53,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: TensorFlow: Advanced Techniques Specialization
+    title: TensorFlow Advanced Techniques Specialization
     url: https://www.coursera.org/specializations/tensorflow-advanced-techniques
 
 design:
