@@ -32,9 +32,8 @@ publication_short: In *ASME*
 abstract: The present paper presents an enhanced method for multi-disciplinary design and optimization of centrifugal compressors based on Machine Learning (ML) algorithms. The typical approach involves the preliminary design, the geometry parameterization, the generation of aero-mechanical databases and a surrogate-model based optimization. This procedure is able to provide excellent results, but it is time consuming and has to be repeated for each new design. The aim of the proposed procedure is to actively exploit the simulations performed in the past for subsequent designs thanks to the predictive capabilities of the ML surrogate model. A commercial 3D (three dimensional) computational fluid dynamics (CFD) solver for the aerodynamic computations and a commercial finite element code for the mechanical integrity calculations, coupled with scripting modules, have been adopted. Two different compressors, with different geometry and operating conditions, have been designed and two aero-mechanical databases have been developed. Then, these two databases have been joined and have been used for the training and validation of the surrogate model. To assess the performance of this approach, two new compressors have been designed, case 1 with operating conditions between those of the databases used for training and validation and case 2 with operating conditions far above. The use of an optimizer coupled to the prediction of the surrogate model has enabled to define the “best set” of model parameters, in compliance with aero-mechanical objectives and constraints. The accuracy of the ML algorithm forecast has been evaluated through CFD and FEM simulations carried out iteratively on the optimal samples, with new simulations added to the database for further training of the surrogate model. The results have been presented with reference to cases 1 and 2 and highlight all the benefits of the proposed approach.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
+summary: The present paper presents an enhanced method for multi-disciplinary design and optimization of centrifugal compressors based on Machine Learning (ML) algorithms.
+tags: ['Deep Learning', 'Centrifugal Compressors', 'Optimization', 'CFD', 'FEA']
 
 # Display this page in the Featured widget?
 featured: true
@@ -72,9 +71,9 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
 slides: ""
+---
+
 # {{% callout note %}}
 # Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 # {{% /callout %}}
