@@ -33,7 +33,7 @@ item:
     url: https://www.coursera.org/learn/machine-learning-course
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/F54MDCRFHWQX
     date_end: ''
-    date_start: '2021-01-02'
+    date_start: '2021-02-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -41,7 +41,7 @@ item:
     url: https://www.coursera.org/specializations/deep-learning
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/Q6J65DWWN6KX
     date_end: ''
-    date_start: '2021-01-06'
+    date_start: '2021-06-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -49,7 +49,7 @@ item:
     url: https://www.coursera.org/specializations/tensorflow-in-practice
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/84B27448YPTX
     date_end: ''
-    date_start: '2021-01-10'
+    date_start: '2021-10-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
